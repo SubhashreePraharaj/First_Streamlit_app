@@ -1,4 +1,4 @@
 import streamlit
 streamlit.title('Subhashree')
-streamlit.headed('My Profile')
+streamlit.header('My Profile')
 streamlit.text('I am a Data Engineer')
